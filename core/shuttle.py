@@ -1,5 +1,11 @@
-## lzmcore.py - useful module of Lazymux
-##
+"""
+========================================
+Name:shuttle Author: Lalevin Martin
+ Mailbox: zzlyxht@outlook.com                                                
+ Github: http://github.com/nacglalevin
+Written in 2022-12-8
+==================NACG==================
+"""
 import os, sys, time
 import urllib.request
 from subprocess import check_output as inputstream
