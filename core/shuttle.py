@@ -1000,7 +1000,7 @@ def gpstr():
 
 def pret():
         print('\n###### Installing PRET')
-          os.system('apt update -y && apt upgrade -y')
+        os.system('apt update -y && apt upgrade -y')
         os.system('apt install python2 imagemagick git')
         os.system('python2 -m pip install colorama pysnmp')
         os.system('git clone https://github.com/RUB-NDS/PRET')
