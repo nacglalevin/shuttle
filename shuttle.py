@@ -9,7 +9,7 @@ Written in 2022-12-8
 import os, sys
 import readline
 from time import sleep as timeout
-from core.lzmcore import *
+from core.shuttle import *
 
 def main():
     banner()
