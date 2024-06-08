@@ -90,7 +90,7 @@ def main():
         print("    [50] osi.ig: Information Gathering (Instagram)")
         print("    [51] proxy-checker: The simple script, which checks good and bad proxies")
         print("\n    [00] Back to main menu\n")
-        infogathering = input("lzmx > set_install ")
+        infogathering = input("sute > set_install ")
         if infogathering == "@":
             infogathering = ""
             for x in range(1,201):
@@ -186,7 +186,7 @@ def main():
         print("    [26] Clickjacking-Tester: A python script designed to check if the website if vulnerable of clickjacking and create a poc")
         print("    [27] Sn1per: Attack Surface Management Platform | Sn1perSecurity LLC")
         print("\n    [00] Back to main menu\n")
-        vulnsys = input("lzmx > set_install ")
+        vulnsys = input("sute > set_install ")
         if vulnsys == "@":
             vulnsys = ""
             for x in range(1,201):
@@ -264,7 +264,7 @@ def main():
         print("    [32] WhatWeb: Next generation web scanner")
         print("    [33] fuxploider: File upload vulnerability scanner and exploitation tool")
         print("\n    [00] Back to main menu\n")
-        webhack = input("lzmx > set_install ")
+        webhack = input("sute > set_install ")
         if webhack == "@":
             webhack = ""
             for x in range(1,201):
@@ -320,7 +320,7 @@ def main():
         print("    [04] audit_couchdb: Detect security issues, large or small, in a CouchDB server")
         print("    [05] mongoaudit: An automated pentesting tool that lets you know if your MongoDB instances are properly secured")
         print("\n    [00] Back to main menu\n")
-        dbssm = input("lzmx > set_install ")
+        dbssm = input("sute > set_install ")
         if dbssm == "@":
             dbssm = ""
             for x in range(1,201):
@@ -373,7 +373,7 @@ def main():
         print("    [29] elpscrk: An Intelligent wordlist generator based on user profiling, permutations, and statistics")
         print("    [30] fbht: Facebook Hacking Tool")
         print("\n    [00] Back to main menu\n")
-        passtak = input("lzmx > set_install ")
+        passtak = input("sute > set_install ")
         if passtak == "@":
             passtak = ""
             for x in range(1,201):
@@ -427,7 +427,7 @@ def main():
         print("    [05] PwnSTAR: (Pwn SofT-Ap scRipt) - for all your fake-AP needs!")
         print("    [06] Pyrit: The famous WPA precomputed cracker, Migrated from Google")
         print("\n    [00] Back to main menu\n")
-        wiretak = input("lzmx > set_install ")
+        wiretak = input("sute > set_install ")
         if wiretak == "@":
             wiretak = ""
             for x in range(1,201):
@@ -467,7 +467,7 @@ def main():
         print("    [15] ssl-pinning-remover: An SSL Pinning Remover for Android Apps")
         print("    [16] GEF: GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux")
         print("\n    [00] Back to main menu\n")
-        reversi = input("lzmx > set_install ")
+        reversi = input("sute > set_install ")
         if reversi == "@":
             reversi = ""
             for x in range(1,201):
@@ -513,7 +513,7 @@ def main():
         print("    [11] Gloom-Framework: Linux Penetration Testing Framework")
         print("    [12] Zerodoor: A script written lazily for generating cross-platform  backdoors on the go :)")
         print("\n    [00] Back to main menu\n")
-        exploitool = input("lzmx > set_install ")
+        exploitool = input("sute > set_install ")
         if exploitool == "@":
             exploitool = ""
             for x in range(1,201):
@@ -548,7 +548,7 @@ def main():
         print("    [04] hping3: hping is a command-line oriented TCP/IP packet assembler/analyzer")
         print("    [05] tshark: Network protocol analyzer and sniffer")
         print("\n    [00] Back to main menu\n")
-        sspoof = input("lzmx > set_install ")
+        sspoof = input("sute > set_install ")
         if sspoof == "@":
             sspoof = ""
             for x in range(1,201):
@@ -576,7 +576,7 @@ def main():
         print("    [04] mediainfo: Command-line utility for reading information from media files")
         print("    [05] pdfinfo: PDF document information extractor")
         print("\n    [00] Back to main menu\n")
-        reportls = input("lzmx > set_install ")
+        reportls = input("sute > set_install ")
         if reportls == "@":
             reportls = ""
             for x in range(1,201):
@@ -637,7 +637,7 @@ def main():
         print("    [09] dost-attack: WebServer Attacking Tools")
         print("    [10] DHCPig: DHCP exhaustion script written in python using scapy network library")
         print("\n    [00] Back to main menu\n")
-        stresstest = input("lzmx > set_install ")
+        stresstest = input("sute > set_install ")
         if stresstest == "@":
             stresstest = ""
             for x in range(1,201):
@@ -675,7 +675,7 @@ def main():
         print("    [09] OpenSUSE (Tumbleweed)")
         print("    [10] Void Linux")
         print("\n    [00] Back to main menu\n")
-        innudis = input("lzmx > set_install ")
+        innudis = input(sute > set_install ")
         if innudis == "@":
             innudis = ""
             for x in range(1,201):
@@ -725,7 +725,7 @@ def main():
         print("    [22] pandas: Powerful open-source data manipulation and analysis library")
         print("    [23] jupyter-notebook: Interactive web application that allows users to create and share documents containing live code, equations, visualizations, and narrative text")
         print("\n    [00] Back to main menu\n")
-        moretool = input("lzmx > set_install ")
+        moretool = input("sute > set_install ")
         if moretool == "@":
             moretool = ""
             for x in range(1,201):
@@ -774,7 +774,7 @@ def main():
         print("    [07] pranayama (4-7-8 Relax Breathing)")
         print("    [08] sqlc (SQLite Query Processor)")
         print("\n    [00] Back to main menu\n")
-        myshf = input("lzmx > set_install ")
+        myshf = input("sute > set_install ")
         if myshf == "@":
             myshf = ""
             for x in range(1,201):
@@ -808,7 +808,7 @@ def main():
         print("    [07] tty-solitaire")
         print("    [08] Pacman4Console")
         print("\n    [00] Back to main menu\n")
-        cligam = input("lzmx > set_install ")
+        cligam = input("sute > set_install ")
         if cligam == "@":
             cligam = ""
             for x in range(1,201):
@@ -841,7 +841,7 @@ def main():
         print("    [06] avpass: Tool for leaking and bypassing Android malware detection system")
         print("    [07] DKMC: Dont kill my cat - Malicious payload evasion tool")
         print("\n    [00] Back to main menu\n")
-        malsys = input("lzmx > set_install ")
+        malsys = input("sute > set_install ")
         if malsys == "@":
             malsys = ""
             for x in range(1,201):
@@ -884,7 +884,7 @@ def main():
         print("    [17] Yasm: Assembler supporting the x86 and AMD64 instruction sets")
         print("    [18] Nasm: A cross-platform x86 assembler with an Intel-like syntax.")
         print("\n    [00] Back to main menu\n")
-        compter = input("lzmx > set_install ")
+        compter = input("sute > set_install ")
         if compter == "@":
             compter = ""
             for x in range(1,201):
@@ -931,7 +931,7 @@ def main():
         print("    [10] Evilginx: Advanced Phishing With Two-factor Authentication Bypass")
         print("    [11] ghost-phisher: Automatically exported from code.google.com/p/ghost-phisher")
         print("\n    [00] Back to main menu\n")
-        soceng = input("lzmx > set_install ")
+        soceng = input(sute > set_install ")
         if soceng == "@":
             soceng = ""
             for x in range(1,201):
