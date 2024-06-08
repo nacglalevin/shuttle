@@ -504,7 +504,7 @@ def main():
         print("    [02] commix: Automated All-in-One OS Command Injection and Exploitation Tool")
         print("    [03] BlackBox: A Penetration Testing Framework")
         print("    [04] Brutal: Payload for teensy like a rubber ducky but the syntax is different")
-              print("    [05] TXTool: An easy pentesting tool")
+        print("    [05] TXTool: An easy pentesting tool")
         print("    [06] XAttacker: Website Vulnerability Scanner & Auto Exploiter")  
         print("    [07] Websploit: An advanced MiTM Framework")
         print("    [08] Routersploit: Exploitation Framework for Embedded Devices")
