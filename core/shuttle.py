@@ -12,18 +12,14 @@ from subprocess import check_output as inputstream
 
 current_dir = os.getcwd()
 lazymux_banner = """
- _
-( )
-| |       _ _  ____  _   _   ___ ___   _   _
-| |  _  /'_` )(_  ,)( ) ( )/' _ ` _ `\( ) ( )(`\/')
-| |_( )( (_| | /'/_ | (_) || ( ) ( ) || (_) | >  <
-(____/'`\__,_)(____)`\__, |(_) (_) (_)`\___/'(_/\_)
-                    ( )_| |
-                    `\___/'
+ ___| |__  _   _| |_| |_| | ___
+/ __| '_ \| | | | __| __| |/ _ \
+\__ \ | | | |_| | |_| |_| |  __/
+|___/_| |_|\__,_|\__|\__|_|\___|
 """
 backtomenu_banner = """
   [99] Back to main menu
-  [00] Exit the Lazymux
+  [00] Exit the shuttle
 """
 
 prefix = os.getenv("PREFIX")
