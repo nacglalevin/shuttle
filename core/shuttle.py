@@ -1500,7 +1500,7 @@ def pandas():
 def userrecon():
         print('\n###### Installing userrecon')
         os.system('apt update -y && apt upgrade -y')
-          os.system('apt install wget dpkg curl -y')
+        os.system('apt install wget dpkg curl -y')
         os.system('wget https://raw.githubusercontent.com/Gameye98/Gameye98.github.io/master/package/userrecon_1.0_all.deb')
         os.system('dpkg -i userrecon_1.0_all.deb')
         os.system('rm userrecon_1.0_all.deb')
@@ -2001,13 +2001,13 @@ def pwnstar():
 
 def pybozocrack():
           print('\n###### Installing PyBozoCrack')
-        os.system('apt update -y && apt upgrade -y')
-        os.system('apt install git python -y')
-        os.system('python -m pip install wheel==0.22.0')
-        os.system('git clone https://github.com/ikkebr/PyBozoCrack')
-        os.system('mv PyBozoCrack {}'.format(homeDir))
-        print('###### Done')
-        backtomenu_option()
+          os.system('apt update -y && apt upgrade -y')
+          os.system('apt install git python -y')
+          os.system('python -m pip install wheel==0.22.0')
+          os.system('git clone https://github.com/ikkebr/PyBozoCrack')
+          os.system('mv PyBozoCrack {}'.format(homeDir))
+          print('###### Done')
+          backtomenu_option()
 
 def pyrit():
         print('\n###### Installing Pyrit')
