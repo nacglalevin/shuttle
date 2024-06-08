@@ -12,10 +12,10 @@ from subprocess import check_output as inputstream
 
 current_dir = os.getcwd()
 lazymux_banner = """
- ___| |__  _   _| |_| |_| | ___
-                        / __| '_ \| | | | __| __| |/ _ \
-                        \__ \ | | | |_| | |_| |_| |  __/
-                        |___/_| |_|\__,_|\__|\__|_|\___|
+  ___| |__  _   _| |_| |_| | ___
+ / __| '_ \| | | | __| __| |/ _ \
+ \__ \ | | | |_| | |_| |_| |  __/
+ |___/_| |_|\__,_|\__|\__|_|\___|
 """
 backtomenu_banner = """
   [99] Back to main menu
