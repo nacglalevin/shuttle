@@ -32,8 +32,8 @@ def main():
     print("   [17] Malware Analysis")
     print("   [18] Compiler/Interpreter")
     print("   [19] Social Engineering Tools")
-    print("\n   [99] Update the Lazymux")
-    print("   [00] Exit the Lazymux\n")
+    print("\n   [99] Update the shuttle")
+    print("   [00] Exit the shuttle\n")
     lazymux = input("sute > set_install ")
 
     # 01 - Information Gathering
