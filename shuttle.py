@@ -1,5 +1,11 @@
-## lazymux.py - Lazymux v4.0
-##
+"""
+========================================
+Name:shuttle Author: Lalevin Martin
+ Mailbox: zzlyxht@outlook.com                                                
+ Github: http://github.com/nacglalevin
+Written in 2022-12-8
+==================NACG==================
+"""
 import os, sys
 import readline
 from time import sleep as timeout
