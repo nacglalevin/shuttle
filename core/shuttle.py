@@ -512,7 +512,7 @@ def metasploit():
       os.chdir(oldpwd)
       print('###### Done')
       print("###### Type 'msfconsole' to start.")
-       backtomenu_option()
+      backtomenu_option()
 
 def commix():
         print('\n###### Installing Commix')
