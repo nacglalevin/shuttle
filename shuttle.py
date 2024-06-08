@@ -34,7 +34,7 @@ def main():
     print("   [19] Social Engineering Tools")
     print("\n   [99] Update the Lazymux")
     print("   [00] Exit the Lazymux\n")
-    lazymux = input("lzmx > set_install ")
+    lazymux = input("sute > set_install ")
 
     # 01 - Information Gathering
     if lazymux.strip() == "1" or lazymux.strip() == "01":
