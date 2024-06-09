@@ -931,7 +931,7 @@ def main():
         print("    [10] Evilginx: Advanced Phishing With Two-factor Authentication Bypass")
         print("    [11] ghost-phisher: Automatically exported from code.google.com/p/ghost-phisher")
         print("\n    [00] Back to main menu\n")
-        soceng = input(sute > set_install ")
+        soceng = input("sute > set_install ")
         if soceng == "@":
             soceng = ""
             for x in range(1,201):
