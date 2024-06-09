@@ -604,7 +604,7 @@ def main():
         print("    [04] CyberScan: Network's Forensics ToolKit")
         print("    [05] binwalk: Firmware analysis tool")
         print("\n    [00] Back to main menu\n")
-        forensc = input("lzmx > set_install ")
+        forensc = input("sute > set_install ")
         if forensc == "@":
             forensc = ""
             for x in range(1,201):
@@ -675,7 +675,7 @@ def main():
         print("    [09] OpenSUSE (Tumbleweed)")
         print("    [10] Void Linux")
         print("\n    [00] Back to main menu\n")
-        innudis = input(sute > set_install ")
+        innudis = input("sute > set_install ")
         if innudis == "@":
             innudis = ""
             for x in range(1,201):
