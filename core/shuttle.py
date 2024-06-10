@@ -73,7 +73,7 @@ def restart_program():
 def backtomenu_option():
         if not readStatus():
                 print(backtomenu_banner)
-                backtomenu = input("lzmx > ")
+                backtomenu = input("sute > ")
 
                 if backtomenu == "99":
                         restart_program()
