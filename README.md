@@ -4,34 +4,5 @@
 <h3>使用:</h3>
 ```bash
 
-.__            __    __  .__
-  _____|  |__  __ ___/  |__/  |_|  |   ____
- /  ___/  |  \|  |  \   __\   __\  | _/ __ \
- \___ \|   Y  \  |  /|  |  |  | |  |_\  ___/
-/____  >___|  /____/ |__|  |__| |____/\___  >
-     \/     \/                            \/
-
-   [01] Information Gathering
-   [02] Vulnerability Analysis
-   [03] Web Hacking
-   [04] Database Assessment
-   [05] Password Attacks
-   [06] Wireless Attacks
-   [07] Reverse Engineering
-   [08] Exploitation Tools
-   [09] Sniffing and Spoofing
-   [10] Reporting Tools
-   [11] Forensic Tools
-   [12] Stress Testing
-   [13] Install Linux Distro
-   [14] Termux Utility
-   [15] Shell Function [.bashrc]
-   [16] Install CLI Games
-   [17] Malware Analysis                                                      [18] Compiler/Interpreter
-   [19] Social Engineering Tools
-
-   [99] Update the shuttle
-   [00] Exit the shuttle
-
-sute > set_install
+shuttle
 ```
