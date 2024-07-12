@@ -4,5 +4,6 @@
 <h3>使用:</h3>
 ```bash
 
-shuttle
+g
+
 ```
