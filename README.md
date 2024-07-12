@@ -35,3 +35,24 @@
 
 sute > set_install
 ```
+## Feature
+- **Tool Installation**  
+Install Single Tool  
+`sute > set_install 1`  
+Install Multi Tool  
+`sute > set_install 1 2 3 4`  
+Install All Tool  
+`sute > set_install @`  
+- **Default Dir Install**
+On `shuttle.conf` replace symbol ~ with directory you want  
+Example: shuttle.conf  
+`HOME = /sdcard`
+### Requirements
+• Python 3.x
+
+#### Installation and Using Lazymux
+```bash
+apt install python git
+git clone https://github.com/nacglalevin/shuttle
+python shuttle.py
+```
